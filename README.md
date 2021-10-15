@@ -1,16 +1,27 @@
-### Hi there 👋
+# Bem vindo!
 
-<!--
-**brunoleonardobr/brunoleonardobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## Eu sou o BRUNO LEONARDO FAGUNDES!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+:computer: Sou desenvolvedor Full Stack;
+
+:house_with_garden: Sou do Brasil.
+
+:books: Atualmente estou aprendendo nodeJS, React e Phyton.
+
+ 
+
+## Sobre mim
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunoleonardobr)](https://github.com/brunoleonardobr)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/bruno-leonardo-fagundes-3883432b/)]( https://www.linkedin.com/in/bruno-leonardo-fagundes-3883432b/)
+
+
+
+- Obrigado por me visitar.
+
+- Abraços!! o/

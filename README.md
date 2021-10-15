@@ -10,7 +10,7 @@
 
 :house_with_garden: Sou do Brasil.
 
-:books: Atualmente estou aprendendo nodeJS, React e Phyton.
+:books: Atualmente estou aprendendo nodeJS, React, Python, Clean Code e Extreme Programming.
 
  
 

@@ -8,7 +8,7 @@
 
 :computer: Sou desenvolvedor Full Stack;
 
-:house_with_garden: Sou do Brasil.
+:house_with_garden: Sou de Minas Gerais, Brasil.
 
 :books: Atualmente estou aprendendo nodeJS, React, Python, Java, Clean Code e Extreme Programming.
 

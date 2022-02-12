@@ -23,8 +23,8 @@
 
 ## ⚡ Tecnologias
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logoColor=white&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&color=green&logoColor=white&logo=Node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logoColor=white&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-228B22?style=flat-square&logoColor=white&logo=Node.js)
 ![NestJs](https://img.shields.io/badge/-NestJs-red?style=flat-square&logoColor=white&logo=Nest.js)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Php](https://img.shields.io/badge/-Php-6959CD?style=flat-square&logoColor=white&logo=php)

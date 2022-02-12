@@ -33,7 +33,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=white&logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logoColor=blue&logo=postgresql)
+![Sql Server](https://img.shields.io/badge/-Sql%20Server-white?style=flat-square&logoColor=blue&logo=sql-server)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logoColor=red&color=white&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logoColor=white&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)

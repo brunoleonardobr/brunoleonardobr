@@ -23,7 +23,7 @@
 
 ## ⚡ Tecnologias
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logoColor=white&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logoColor=black&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-228B22?style=flat-square&logoColor=white&logo=Node.js)
 ![NestJs](https://img.shields.io/badge/-NestJs-red?style=flat-square&logoColor=white&logo=Nest.js)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)

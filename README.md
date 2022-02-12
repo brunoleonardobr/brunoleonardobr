@@ -33,7 +33,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=white&logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logoColor=red&color=white&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square%color=blue&logoColor=white&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logoColor=white&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)

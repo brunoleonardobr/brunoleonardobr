@@ -25,7 +25,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logoColor=black&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-228B22?style=flat-square&logoColor=white&logo=Node.js)
-![NestJs](https://img.shields.io/badge/-NestJs-red?style=flat-square&logoColor=white&logo=Nest.js)
+![NestJs](https://img.shields.io/badge/-NestJs-white?style=flat-square&logoColor=black&logo=Nest.js)
+![NextJs](https://img.shields.io/badge/-NextJs-red?style=flat-square&logoColor=white&logo=Next.js)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Php](https://img.shields.io/badge/-Php-6959CD?style=flat-square&logoColor=white&logo=php)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=red&color=white)
@@ -37,7 +38,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logoColor=red&color=white&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logoColor=white&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)

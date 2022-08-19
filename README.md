@@ -6,7 +6,7 @@
 
  
 
-:computer: Sou desenvolvedor Full Stack, trabalhando com PHP, NodeJS, React e Phyton;
+:computer: Sou desenvolvedor Full Stack, trabalhando com PHP, NodeJS, NestJs e React;
 
 :house_with_garden: Sou de Minas Gerais, Brasil.
 

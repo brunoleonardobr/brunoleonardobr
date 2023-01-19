@@ -18,9 +18,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-leonardo-fagundes-3883432b)]( https://www.linkedin.com/in/bruno-leonardo-fagundes-3883432b)
 
-[![brunoleonardobr's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoleonardobr&layout=compact&show_icons=true&theme=radical)
-](https://github.com/brunoleonardobr/github-readme-stats)
-
 ## ⚡ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logoColor=black&logo=javascript)

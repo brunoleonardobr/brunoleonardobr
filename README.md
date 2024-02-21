@@ -6,11 +6,11 @@
 
  
 
-:computer: Sou desenvolvedor Full Stack, trabalhando com PHP, NodeJS, NestJs e React;
+:computer: Sou desenvolvedor Full Stack, trabalhando com PHP, NodeJS, React, React Native, C#, .NET;
 
 :house_with_garden: Sou de Minas Gerais, Brasil.
 
-:books: Atualmente estou aprendendo nodeJS, React, Python, Java, Clean Code e Extreme Programming.
+:books: Atualmente cursando Arquitetura de Software por pós graduação na FIAP.
 
  
 
